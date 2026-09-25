@@ -2,8 +2,7 @@
 
 A complete Windows Server 2022 lab built on VMware Workstation. It covers Active Directory, Group Policy, DHCP with failover, DNS load balancing, file services, printing, Hyper-V Replica, and backup. Every step is documented with screenshots.
 
-**Author:** Amjad Sayer ALjuaid
-
+   Implemented hands-on by Amjad Sayer ALjuaid, based on a Windows Server training course, as part of practicing cloud and infrastructure fundamentals.
 ## Contents
 
 1. [Lab topology](#lab-topology)
